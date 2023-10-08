@@ -9,7 +9,6 @@
             "App\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Gautier Fadonougbo",
